@@ -1,0 +1,2 @@
+module UserValidation_LambdaExpression {
+}
